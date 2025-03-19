@@ -24,7 +24,8 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ## CODING AND OUTPUT
 
-[![text](dsexp02.ipynb)]
+[Open Notebook](dsexp02.ipynb)
+
 
 
 # RESULT
